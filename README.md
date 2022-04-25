@@ -455,3 +455,123 @@ Dentro de la configuración se pueden gestionar los horarios de atención de la 
   PDF         VIDEO
   
  
+# Perfil Administrador
+
+## Ayudas
+
+En la Pantalla de Crear Banner te solicita:  
+- Crear Banner (El banner es obligatorio)
+- Añadir imagen al  Banner de la tienda
+- Url de la tienda  (Es obligatorio)
+- Fecha de inicio de la publicidad  tipo Banner
+- Fecha de final de la publicidad  tipo Banner
+- Tienda
+- Prioridad (de 1 a infinito) pero se muestra desde la mayor prioridad a la menor prioridad
+- Precio
+- Porcentaje de descuento
+- Botón crear banner
+
+  ![](https://i.imgur.com/q4YcB35.png)
+  PDF         VIDEO
+  
+  ## Categoría de ayudas
+
+En la Pantalla de Crear Banner te solicita:  
+- Crear Banner (El banner es obligatorio)
+- Añadir imagen al  Banner de la tienda
+- Url de la tienda  (Es obligatorio)
+- Fecha de inicio de la publicidad  tipo Banner
+- Fecha de final de la publicidad  tipo Banner
+- Tienda
+- Prioridad (de 1 a infinito) pero se muestra desde la mayor prioridad a la menor prioridad
+- Precio
+- Porcentaje de descuento
+- Botón crear banner
+
+  ![](https://i.imgur.com/q4YcB35.png)
+  PDF         VIDEO
+
+
+## Emisores de tarjeta
+
+Dentro de la configuración de pagos se pueden agregar, editar o eliminar los bancos emisores de las tarjetas con las que se realizan los procesos de pago en el marketplace.
+
+
+  ![](https://i.imgur.com/q4YcB35.png)
+  PDF         VIDEO
+
+## Tipos de Cuentas Bancarias
+
+Aquí encontramos los tipos de cuenta que pueden seleccionar los usuarios. Las opciones disponibles son corriente, ahorro y única. 
+
+  ![](https://i.imgur.com/q4YcB35.png)
+  PDF         VIDEO
+
+
+## Tipos de Tarjetas
+
+Aquí encontramos los tipos de tarjeta que pueden seleccionar los usuarios. Sobre las cuales el administrador tiene la opción de crear, editar o eliminar. 
+
+  ![](https://i.imgur.com/q4YcB35.png)
+  PDF         VIDEO
+
+
+## Cuentas Bancarias
+
+Aquí encontramos las cuentas bancarias que maneja el administrador del marketplace, y a la cual llegan las transferencias de los usuarios. 
+
+  ![](https://i.imgur.com/q4YcB35.png)
+  PDF         VIDEO
+
+
+## CONFIGURACIÓN
+
+## Información de la pagina
+
+Dentro de la configuración accedemos inicialmente a la información de la pagina donde existe la posibilidad de editar nombre de la pagina y logo. 
+
+  ![](https://i.imgur.com/q4YcB35.png)
+  PDF         VIDEO
+
+
+## Configuración del Home
+
+El segundo renglon nos ubica en la configuración del home, que es la pagina principal del marketplace. Desde aquí el administrador tiene laopción de editar imagenes y textos de algunas de las secciones que integran la pagina de inicio. 
+
+  ![](https://i.imgur.com/q4YcB35.png)
+  PDF         VIDEO
+
+
+##   Configuración del Footer  
+
+El footer se puede modificar simplemente sustituyendo la información desde esta configuración. 
+
+  ![](https://i.imgur.com/q4YcB35.png)
+  PDF         VIDEO
+
+
+## Caracteristicas de la tienda
+
+Las caracteristicas de la tienda son añadidas como una etiqueta. Desde aquí se pueden crear, editar o eliminar. 
+
+  ![](https://i.imgur.com/q4YcB35.png)
+  PDF         VIDEO
+
+
+# UBICACIONES
+
+## Ubicaciones
+La opción Ubicaciones, presenta una tabla  detallada con los siguientes campos
+- Prioridad
+-  ID
+
+  ![](https://i.imgur.com/q4YcB35.png)
+  PDF         VIDEO
+
+
+## NOTIFICACIONES 
+
+Las notificaciones son enviadas a tiendas, clientes y administradores para realizar diversos reportes o solicitudes. Este es el historial de las que se han enviado hasta la fecha y a partir de esta sección se puede crear una nueva. 
+
+  ![](https://i.imgur.com/q4YcB35.png)
+  PDF         VIDEO
