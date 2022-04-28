@@ -239,7 +239,7 @@ Se presentan los siguientes campos:
 - Botón añadir zona
 - Botón crear
  
-  ![](https://i.imgur.com/ThJKYup.png)
+  ![](https://i.imgur.com/zOvWNZE.png)
   PDF         VIDEO
 
 
@@ -249,7 +249,7 @@ Para crear la zona dentro de un evento se deben  registrar los siguientes campos
 - Nombre de la zona 
 - Cantidad de butacas
 
-  ![](https://i.imgur.com/ThJKYup.png)
+  ![](https://i.imgur.com/4TQe2bS.png)
   PDF         VIDEO
 
 
@@ -259,7 +259,7 @@ Para editarla zona dentro de un evento se deben  cambiar los siguientes campos:
 - Nombre de la zona 
 	- Cantidad de butacas
  
-  ![](https://i.imgur.com/ThJKYup.png)
+  ![](https://i.imgur.com/tONzMAb.png)
   PDF         VIDEO
 
 
@@ -292,7 +292,7 @@ Para crear la zona dentro de un evento se deben  registrar los siguientes campos
 - Añadir una Descripción del Show / Películas / Evento
 - Botón crear
  
-  ![](https://i.imgur.com/ThJKYup.png)
+  ![](https://i.imgur.com/a2IURlv.png)
   PDF         VIDEO
 
 
@@ -320,17 +320,7 @@ Para agregar  una Categoría dentro de un evento se deben  registrar los siguien
 - Nombre de la categoría
 - Seleccionar la categoría padre
  
-  ![](https://i.imgur.com/ThJKYup.png)
-  PDF         VIDEO
-
-
-- ## Editar Categoría
-
-Para Editar una Categoría dentro de un evento se deben  registrar los siguientes campos:
-- Nombre de la categoría
-- Seleccionar la categoría padre
- 
-  ![](https://i.imgur.com/ThJKYup.png)
+  ![](https://i.imgur.com/00kGZPS.png)
   PDF         VIDEO
 
 
@@ -371,7 +361,7 @@ Para crear un descuento dentro de un evento se deben  registrar los siguientes c
 	- Aplica por global 
 - Botón Crear Descuento
  
-  ![](https://i.imgur.com/ThJKYup.png)
+  ![](https://i.imgur.com/nfl5Dvh.png)
   PDF         VIDEO
 
 
