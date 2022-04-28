@@ -162,7 +162,7 @@ Muestra un resumen de:
 - Canceladas
 - En Proceso
 - Finalizadas
-  ![](https://i.imgur.com/q4YcB35.png)
+  ![](https://i.imgur.com/Ehp6zw5.png)
   PDF         VIDEO
 
   ## Mis Ordenes de tiendas tipo Eventos (Boliches y Espectáculos)
@@ -184,30 +184,7 @@ Se presenta  una tabla con la siguiente información:
 - Tipo de pago
 - Botón  Limpiar filtros
  
-  ![](https://i.imgur.com/ThJKYup.png)
-  PDF         VIDEO
-
-- ## Detalle de la orden 
-
-	- Muestra el reporte con el detalle de la orden:
-	- Numero de referencia de la orden
-	- Fecha de la Orden
-	- Metodo de Envio
-	- Metodo de Pago
-	- Estado de la orden
-	- Por pago
-	- Por envío
-	- Por estatus
-	- Cliente
-	- Dirección de envío
-	- Productos
-	- Total
-	- Botón Imprimir
-	- Botón Cambiar Estado
-	- Datos de envío
-	- Documentos (descargar)
- 
-  ![](https://i.imgur.com/ThJKYup.png)
+  ![](https://i.imgur.com/Xl2GloM.png)
   PDF         VIDEO
 
 
@@ -233,28 +210,8 @@ Se presenta  una tabla con la siguiente información:
 	- No
 - Botón  Limpiar filtros
  
-  ![](https://i.imgur.com/ThJKYup.png)
+  ![](https://i.imgur.com/EtOzbAb.png)
   PDF         VIDEO
-
-
-## Detalle del carrito
-
-Muestra el reporte con el detalle del Carrito:
-- Numero de referencia de la orden
-- Fecha 
-- Hora
-- Comprador
-- Estado del carrito
-- Productos (Eventos)
-	- Nombre
-	- Imagen
-	- Precio 
-	- Cantidad 
-	- Total
-
-  ![](https://i.imgur.com/ThJKYup.png)
-  PDF         VIDEO
-
 
 ## Lugares o Salas
 
@@ -270,7 +227,7 @@ Notificaciones
 Mi cuenta
 Cerrar Sesión
  
-  ![](https://i.imgur.com/ThJKYup.png)
+  ![](https://i.imgur.com/z9mMdNH.png)
   PDF         VIDEO
 
 
@@ -320,7 +277,7 @@ Notificaciones
 Mi cuenta
 Cerrar Sesión
  
-  ![](https://i.imgur.com/ThJKYup.png)
+  ![](https://i.imgur.com/SqyIh9j.png)
   PDF         VIDEO
 
 
@@ -353,7 +310,7 @@ Se presenta  una tabla con la siguiente información:
 - Botón Eliminar categoría
 - Botón Añadir categoría 
  
-  ![](https://i.imgur.com/ThJKYup.png)
+  ![](https://i.imgur.com/TbvyzP8.png)
   PDF         VIDEO
 
 
@@ -395,7 +352,7 @@ Se presenta  una tabla con la siguiente información:
 - Botón Limpiar Filtros
 - Botón Crear Descuento
  
-  ![](https://i.imgur.com/ThJKYup.png)
+  ![](https://i.imgur.com/U7KedxM.png)
   PDF         VIDEO
 
 
@@ -426,7 +383,7 @@ Los post de noticias sirven para promocionar eventos, nuevos productos, coleccio
 - Imagen
 - Botón  Agregar nuevo
  
-  ![](https://i.imgur.com/ThJKYup.png)
+  ![](https://i.imgur.com/QGbU6wP.png)
   PDF         VIDEO
 
 
@@ -439,7 +396,7 @@ Los post de noticias sirven para promocionar eventos, nuevos productos, coleccio
 - Botón  Responder
 - Botón Ver Respuesta
  
-  ![](https://i.imgur.com/ThJKYup.png)
+  ![](https://i.imgur.com/laEVIFC.png)
   PDF         VIDEO
   
   ## Configuración / Horarios
@@ -451,7 +408,7 @@ Dentro de la configuración se pueden gestionar los horarios de atención de la 
 - Botón aceptar
 - Botón Cancelar 
  
-  ![](https://i.imgur.com/ThJKYup.png)
+  ![](https://i.imgur.com/wfcjBmp.png)
   PDF         VIDEO
   
  
