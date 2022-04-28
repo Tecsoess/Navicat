@@ -447,7 +447,7 @@ En la Pantalla de Crear Banner te solicita:
 - Porcentaje de descuento
 - Botón crear banner
 
-  ![](https://i.imgur.com/q4YcB35.png)
+  ![](https://i.imgur.com/qqhSals.png)
   PDF         VIDEO
   
   ## Categoría de ayudas
@@ -464,7 +464,7 @@ En la Pantalla de Crear Banner te solicita:
 - Porcentaje de descuento
 - Botón crear banner
 
-  ![](https://i.imgur.com/q4YcB35.png)
+  ![](https://i.imgur.com/XBLrLkP.png)
   PDF         VIDEO
 
 
@@ -473,14 +473,14 @@ En la Pantalla de Crear Banner te solicita:
 Dentro de la configuración de pagos se pueden agregar, editar o eliminar los bancos emisores de las tarjetas con las que se realizan los procesos de pago en el marketplace.
 
 
-  ![](https://i.imgur.com/q4YcB35.png)
+  ![](https://i.imgur.com/QbX6OwO.png)
   PDF         VIDEO
 
 ## Tipos de Cuentas Bancarias
 
 Aquí encontramos los tipos de cuenta que pueden seleccionar los usuarios. Las opciones disponibles son corriente, ahorro y única. 
 
-  ![](https://i.imgur.com/q4YcB35.png)
+  ![](https://i.imgur.com/rc8VyzF.png)
   PDF         VIDEO
 
 
@@ -488,7 +488,7 @@ Aquí encontramos los tipos de cuenta que pueden seleccionar los usuarios. Las o
 
 Aquí encontramos los tipos de tarjeta que pueden seleccionar los usuarios. Sobre las cuales el administrador tiene la opción de crear, editar o eliminar. 
 
-  ![](https://i.imgur.com/q4YcB35.png)
+  ![](https://i.imgur.com/318lwl9.png)
   PDF         VIDEO
 
 
@@ -496,9 +496,15 @@ Aquí encontramos los tipos de tarjeta que pueden seleccionar los usuarios. Sobr
 
 Aquí encontramos las cuentas bancarias que maneja el administrador del marketplace, y a la cual llegan las transferencias de los usuarios. 
 
-  ![](https://i.imgur.com/q4YcB35.png)
+  ![](https://i.imgur.com/YIdFBUJ.png)
   PDF         VIDEO
 
+## Tarjetas
+
+Aquí se encuentran las tarjetas que pueden ser seleccionadas pára realizar el pago por parte de los usuarios. 
+
+  ![](https://i.imgur.com/bsD2uao.png)
+  PDF         VIDEO
 
 ## CONFIGURACIÓN
 
@@ -506,7 +512,7 @@ Aquí encontramos las cuentas bancarias que maneja el administrador del marketpl
 
 Dentro de la configuración accedemos inicialmente a la información de la pagina donde existe la posibilidad de editar nombre de la pagina y logo. 
 
-  ![](https://i.imgur.com/q4YcB35.png)
+  ![](https://i.imgur.com/yIm9Zre.png)
   PDF         VIDEO
 
 
@@ -514,7 +520,7 @@ Dentro de la configuración accedemos inicialmente a la información de la pagin
 
 El segundo renglon nos ubica en la configuración del home, que es la pagina principal del marketplace. Desde aquí el administrador tiene laopción de editar imagenes y textos de algunas de las secciones que integran la pagina de inicio. 
 
-  ![](https://i.imgur.com/q4YcB35.png)
+  ![](https://i.imgur.com/bnMPtAE.png)
   PDF         VIDEO
 
 
@@ -522,7 +528,7 @@ El segundo renglon nos ubica en la configuración del home, que es la pagina pri
 
 El footer se puede modificar simplemente sustituyendo la información desde esta configuración. 
 
-  ![](https://i.imgur.com/q4YcB35.png)
+  ![](https://i.imgur.com/34HgEQH.png)
   PDF         VIDEO
 
 
@@ -530,7 +536,7 @@ El footer se puede modificar simplemente sustituyendo la información desde esta
 
 Las caracteristicas de la tienda son añadidas como una etiqueta. Desde aquí se pueden crear, editar o eliminar. 
 
-  ![](https://i.imgur.com/q4YcB35.png)
+  ![](https://i.imgur.com/TDIJNur.png)
   PDF         VIDEO
 
 
@@ -541,7 +547,7 @@ La opción Ubicaciones, presenta una tabla  detallada con los siguientes campos
 - Prioridad
 -  ID
 
-  ![](https://i.imgur.com/q4YcB35.png)
+  ![](https://i.imgur.com/w6uZUOr.png)
   PDF         VIDEO
 
 
@@ -549,5 +555,5 @@ La opción Ubicaciones, presenta una tabla  detallada con los siguientes campos
 
 Las notificaciones son enviadas a tiendas, clientes y administradores para realizar diversos reportes o solicitudes. Este es el historial de las que se han enviado hasta la fecha y a partir de esta sección se puede crear una nueva. 
 
-  ![](https://i.imgur.com/q4YcB35.png)
+  ![](https://i.imgur.com/u2JyJnb.png)
   PDF         VIDEO
