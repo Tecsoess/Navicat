@@ -375,6 +375,35 @@ Para crear un descuento dentro de un evento se deben  registrar los siguientes c
   PDF         VIDEO
 
 
+## Datos de la Tienda.
+
+El Usuario Tienda registra los siguientes datos
+- Añadir Imagen
+- Banner principal
+- Nombre de la tienda
+- Whatsapp
+- Teléfono
+- Correo electrónico 
+- Instagram
+- Facebook
+- Banner secundario
+- Descripción corta de la tienda
+- Url del video de Youtube
+- Descripción larga de la tienda
+- Características de tu tienda
+- Filtros
+- Wifi
+- Estacionamiento
+- Parque para niños 
+- Reserva
+- Dirección
+- Google mapa
+- Botón aceptar
+ 
+  ![](https://i.imgur.com/utDSX5i.png)
+  PDF         VIDEO
+
+
 ## Post de noticias
 
 Los post de noticias sirven para promocionar eventos, nuevos productos, colecciones que deseen destacar tanto en la tienda como en la pantalla de inicio del sitio web.
